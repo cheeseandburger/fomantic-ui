@@ -1,0 +1,19 @@
+{
+  "name": "cheeseandburger.fomantic-ui",
+  "version": "1.0.0",
+  "description": "Custom fomantic-ui for cheeseandburger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheeseandburger/fomantic-ui.git"
+  },
+  "author": "https://github.com/josefkelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheeseandburger/fomantic-ui/issues"
+  },
+  "homepage": "https://github.com/cheeseandburger/fomantic-ui#readme"
+}
