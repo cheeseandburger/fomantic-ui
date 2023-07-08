@@ -18,5 +18,15 @@
   "permission": false,
   "autoInstall": false,
   "rtl": false,
-  "version": "2.9.2"
+  "version": "2.9.2",
+  "components": [
+    "reset",
+    "site",
+    "container",
+    "divider",
+    "flag",
+    "header",
+    "icon",
+    "image"
+  ]
 }
