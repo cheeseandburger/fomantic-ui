@@ -4,7 +4,8 @@
   "description": "Custom fomantic-ui for cheeseandburger",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gulp deploy"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/cheeseandburger/fomantic-ui#readme",
   "dependencies": {
-    "fomantic-ui": "^2.9.2"
+    "fomantic-ui": "^2.9.2",
+    "gulp-rename": "^2.0.0"
   }
 }
